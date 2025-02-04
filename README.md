@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Calculator with Docker
 
 This project is a **simple Python-based calculator** application that performs basic arithmetic operations: addition, subtraction, multiplication, and division. The application runs as a **console-based** program where users can input their desired operation and numbers. The result of each calculation is displayed on the console and logged to a text file named `calculation_history.txt`.
@@ -34,3 +35,7 @@ Result saved to calculation_history.txt
 ## Screenshots
 1. Running the application & application output:
 ![Calculator Screenshot](Screenshots/CalculatorSS.png)
+=======
+# python-docker-app
+This project is a **simple Python-based calculator** application that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+>>>>>>> b5c8ad732b667f2e926e18a561b766da589bf875
